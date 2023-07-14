@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 
 You can Find me:
-https://www.linkedin.com/in/juan-sebastian-fonseca-toro-021a22145/
+-[Linkedin](https://www.linkedin.com/in/juan-sebastian-fonseca-toro-021a22145/)
