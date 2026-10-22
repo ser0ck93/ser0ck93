@@ -12,7 +12,7 @@ Python (pandas) · SQL · Power BI · Minitab · IA generativa · Java/Django (b
 - **Hospital-360** — modelo entidad-relación para una app de atención domiciliaria
 
 ### 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/juan-sebastian-fonseca-toro-021a22145/) · [tu correo]
+[LinkedIn](https://www.linkedin.com/in/juan-sebastian-fonseca-toro-021a22145/) · setor1609@hotmail.com 
 
 
 You can Find me:
