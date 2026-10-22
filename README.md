@@ -1,13 +1,18 @@
-![PORTADA1](https://github.com/ser0ck93/ser0ck93/assets/124751092/64e84a70-fde5-4ee2-b3bc-b40bef6bc44b)
-- 👋 Hi, I’m @ser0ck93(Juan sebastin fonseca)
-- 👀 I’m interested in Java, Python, SQL
-- 🌱 I’m currently learning , AWS, Typescript, lambda, API gateway, Machine learning, etc...
+# Juan Sebastián Fonseca Toro
+**Ingeniero químico · Datos e IA aplicados a seguridad química e industria**
 
+Construyo herramientas de análisis de datos e IA para que las empresas reduzcan riesgos químicos y tomen mejores decisiones. 7 años en industria farmacéutica (validación GxP en Abbott) y consultoría de riesgo químico.
 
-<!---
-ser0ck93/ser0ck93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔧 Stack
+Python (pandas) · SQL · Power BI · Minitab · IA generativa · Java/Django (bases)
+
+### 📊 Proyectos destacados
+- **Extractor de FDS con IA** — lee fichas de datos de seguridad y extrae SGA, frases H/P y compatibilidad *(en desarrollo)*
+- **Dashboard de jerarquía de controles** — seguimiento de acciones de riesgo químico por planta *(en desarrollo)*
+- **Hospital-360** — modelo entidad-relación para una app de atención domiciliaria
+
+### 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/juan-sebastian-fonseca-toro-021a22145/) · [tu correo]
 
 
 You can Find me:
